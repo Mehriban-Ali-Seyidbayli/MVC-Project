@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehriban",
+      "title": "React MVC",
+      "text": "Bu nedir?"
+    },
+    {
+      "id": 2,
+      "user": "Khadija",
+      "title": "React",
+      "text": "Bu nedir????"
+    },
+    {
+      "id": 1690115587066,
+      "user": "MIrashraf",
+      "title": "MVC",
+      "text": "what is MVC?\n"
+    },
+    {
+      "id": 1690129229290,
+      "user": "Mehriban",
+      "title": "baslik",
+      "text": "balsiok nedir"
+    }
+  ]
+}
