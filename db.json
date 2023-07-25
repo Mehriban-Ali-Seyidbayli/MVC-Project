@@ -1,28 +1,28 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": 1690278674067,
       "user": "Mehriban",
       "title": "React MVC",
-      "text": "Bu nedir?"
+      "text": "What is MVC?"
     },
     {
-      "id": 2,
+      "id": 1690278694864,
+      "user": "Khadija",
+      "title": "Redux",
+      "text": "About Redux"
+    },
+    {
+      "id": 1690278719383,
+      "user": "Mehriban",
+      "title": "Typescript",
+      "text": "What is Typescript?"
+    },
+    {
+      "id": 1690278896742,
       "user": "Khadija",
       "title": "React",
-      "text": "Bu nedir????"
-    },
-    {
-      "id": 1690115587066,
-      "user": "MIrashraf",
-      "title": "MVC",
-      "text": "what is MVC?\n"
-    },
-    {
-      "id": 1690129229290,
-      "user": "Mehriban",
-      "title": "baslik",
-      "text": "balsiok nedir"
+      "text": "What is React?"
     }
   ]
 }
